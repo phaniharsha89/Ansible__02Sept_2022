@@ -1,5 +1,5 @@
 ---
-mywebpackonubuntu: apache2222
-mywebpackonredhat: httpd
+mywebpackonubuntu: apache2
+mywebpackonredhat: RedHat
 myjavapackonubuntu: openjdk-8-jre
 myjavapackonredhat: java-1.8.0-openjdk
